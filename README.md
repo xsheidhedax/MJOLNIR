@@ -1,6 +1,7 @@
 # MJOLNIR
 
 MJOLNIR is a simple python script to automate google search/dorking.
+![Screenshot](screenshot.png)
 
 ## Installation
 
