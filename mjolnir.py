@@ -91,7 +91,7 @@ def dorkie():
         except ValueError as block:
                   print(colored("[*] Value Error!!", 'green'))
         except socket.gaierror as block:
-                  print(colored("[*] can't get address info!", 'green'))
+                  print(colored("[*] can't get the address infos!", 'green'))
 ##############----URL CHECKER AND Exception HANDLER------#######################
         else:
          url_list = []
