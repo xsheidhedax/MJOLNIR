@@ -11,7 +11,7 @@ git clone https://github.com/xsheidhedax/MJOLNIR.git
 ```
 ***or*** just [download](https://github.com/xsheidhedax/MJOLNIR/archive/refs/heads/main.zip) it!, unzip it... run the script!!!
 ```bash
-pip3 install requirements.txt 
+pip3 install -r requirements.txt 
 python3 mjolnir.py
 ```
 ***TAH-DAHHH***
